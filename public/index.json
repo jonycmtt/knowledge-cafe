@@ -1,0 +1,42 @@
+[
+  {
+    "id": 12345,
+    "cover_image": "https://i.ibb.co/9cyMKMf/1.jpg",
+    "title": "Tech Trends 2023: David Wilson Unveils the 15-Minute Insights into the World of Technology, Trends, and Innovation",
+    "author_image": "https://i.ibb.co/4JdnDsF/boy1.png",
+    "author": "John Doe",
+    "posted_date": "September 20, 2023",
+    "reading_time": 12,
+    "hashtags": ["#Adventure", "#Mystery", "#Fiction"]
+  },
+  {
+    "id": 67890,
+    "cover_image": "https://i.ibb.co/yqtmn6q/2.png",
+    "title": "Cooking Delights: Alice Johnson Shares Her 10-Minute Culinary Creations, Recipes, and Foodie Secrets",
+    "author_image": "https://i.ibb.co/FYLhhN4/boy2.jpg",
+    "author": "Jane Smith",
+    "posted_date": "August 5, 2023",
+    "reading_time": 18,
+    "hashtags": ["#Space", "#Science", "#Exploration"]
+  },
+  {
+    "id": 54321,
+    "cover_image": "https://i.ibb.co/2t4pycT/3.png",
+    "title": "Cosmic Wonders: Jane Smith Takes You on an 18-Minute Journey Through the Vast Universe of Space and Science",
+    "author_image": "https://i.ibb.co/rbLXcnP/girl1.jpg",
+    "author": "Alice Johnson",
+    "posted_date": "July 12, 2023",
+    "reading_time": 10,
+    "hashtags": ["#Cooking", "#Recipes", "#Foodies"]
+  },
+  {
+    "id": 98765,
+    "cover_image": "https://i.ibb.co/rxKGwBk/4.jpg",
+    "title": "An Enigmatic Adventure: Exploring Uncharted Territories with John Doe and Unraveling the Mysteries of Fiction",
+    "author_image": "https://i.ibb.co/Z222Wgw/girl2.jpg",
+    "author": "David Wilson",
+    "posted_date": "June 3, 2023",
+    "reading_time": 15,
+    "hashtags": ["#Technology", "#Trends", "#Innovation"]
+  }
+]
